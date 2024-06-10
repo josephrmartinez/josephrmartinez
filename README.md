@@ -3,7 +3,7 @@
 I graduated from Vassar College with a degree in Independent Studies and then started and ran a successful small business for a decade. I'm currently in the Summer 2024 batch at the [Recurse Center](https://www.recurse.com/). 
  
 Currently learning:  
-💻 use cases for on-device AI
+💻 on-device AI
 
 Currently working on:  
 [soapnotescribe](https://github.com/josephrmartinez/soapnotescribe) - Web app that uses AI to streamline clinical charting for healthcare professionals.  
