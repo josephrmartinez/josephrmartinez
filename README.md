@@ -7,6 +7,6 @@ Currently learning:
 
 Currently working on:  
 [soapnotescribe](https://github.com/josephrmartinez/soapnotescribe) - Web app that uses AI to streamline clinical charting for healthcare professionals.  
-[mktute](https://www.npmjs.com/package/mktute) - CLI tool for generating markdown tutorials based on recent git diffs.  
+[advocate.ai](https://github.com/josephrmartinez/advocate.ai) - Web app that helps patients prepare for, record, and review their medical appointments.  
 
 Let's talk about: LLM use-cases, AI in the application layer, building delightful software
