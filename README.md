@@ -5,5 +5,3 @@ I graduated from Vassar College with a degree in Independent Studies and then st
 [advocate.ai](https://github.com/josephrmartinez/advocate.ai) - Web app that helps patients prepare for, record, and review their medical appointments.  
 
 I'm now working as a full stack software engineer at [PredictionHealth](https://www.predictionhealth.com/)
-
-Let's talk about: LLM use-cases, AI in the application layer, building delightful software
