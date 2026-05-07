@@ -4,4 +4,4 @@ I graduated from Vassar College with a degree in Independent Studies and then st
 [soapnotescribe](https://github.com/josephrmartinez/soapnotescribe) - Web app that uses AI to streamline clinical charting for healthcare professionals.  
 [advocate.ai](https://github.com/josephrmartinez/advocate.ai) - Web app that helps patients prepare for, record, and review their medical appointments.  
 
-I'm now working as a full stack software engineer at [PredictionHealth](https://www.predictionhealth.com/)
+I'm now working as a full stack software engineer at [PromptHealth](https://www.prompthealth.com/)
